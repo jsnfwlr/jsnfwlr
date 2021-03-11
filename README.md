@@ -25,7 +25,6 @@
 - [vuejs/vuepress](https://github.com/vuejs/vuepress)
 - [urfave/negroni](https://github.com/urfave/negroni)
 - [gorilla/mux](https://github.com/gorilla/mux)
-- [primefaces/primevue](https://github.com/primefaces/primevue)
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
 - [microsoft/vscode](https://github.com/microsoft/vscode)
 - [microsoft/terminal](https://github.com/microsoft/terminal)

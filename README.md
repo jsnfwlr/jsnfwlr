@@ -1,33 +1,15 @@
 <!-- <img src="https://avatars2.githubusercontent.com/u/1097895?s=160&v=4" align="right" /> -->
 
-# Jason Fowler - Full Stack Developer w/ DevOps Chops
+# Jason Fowler
 
-### I am currently enjoying building with 
+### I am a Senior Software Engineer with 20+ years experience in front-end & back-end development, server management, CI/CD, and DevOps.
 
-- [golang/go](https://github.com/golang/go)
-- [vuejs/vue](https://github.com/vuejs/vue)
-- [tailwindcss/tailwindcss](https://github.com/tailwindcss/tailwindcss)
-- [docker/docker-ce](https://github.com/docker/docker-ce)
-- [containous/traefik](https://github.com/containous/traefik)
-- [gitlab/gitlab-ce](https://packages.gitlab.com/gitlab/gitlab-ce)
+I am currently working with [vue](https://github.com/vuejs/vue), [go](https://github.com/golang/go), [tailwindcss](https://github.com/tailwindcss/tailwindcss), [php-src](https://github.com/php/php-src), [react-native](https://github.com/facebook/react-native), [docker-ce](https://github.com/docker/docker-ce), [kubernetes](https://github.com/kubernetes/kubernetes), [ansible](https://github.com/ansible/ansible), [traefik](https://github.com/containous/traefik), and [gitlab-ce](https://packages.gitlab.com/gitlab/gitlab-ce).
+I am also building things using [vuex](https://github.com/vuejs/vuex), [vuepress](https://github.com/vuejs/vuepress), [negroni](https://github.com/urfave/negroni), and [mux](https://github.com/gorilla/mux).
 
-### I also have experience with
+Previously, I have built web sites and web applications using [yii](https://github.com/yiisoft/yii), [WordPress](https://github.com/WordPress/WordPress), [hugo](https://github.com/gohugoio/hugo), [kendo-ui-core](https://github.com/telerik/kendo-ui-core).
 
-- [php/php-src](https://github.com/php/php-src)
-- [yiisoft/yii](https://github.com/yiisoft/yii)
-- [WordPress/WordPress](https://github.com/WordPress/WordPress)
-- [gohugoio/hugo](https://github.com/gohugoio/hugo)
-- [kendo-ui-core](https://github.com/telerik/kendo-ui-core)
-
-### I am a fan of
-
-- [vuejs/vuex](https://github.com/vuejs/vuex)
-- [vuejs/vuepress](https://github.com/vuejs/vuepress)
-- [urfave/negroni](https://github.com/urfave/negroni)
-- [gorilla/mux](https://github.com/gorilla/mux)
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-- [microsoft/vscode](https://github.com/microsoft/vscode)
-- [microsoft/terminal](https://github.com/microsoft/terminal)
+Tools I use almost every day include [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh), [vscode](https://github.com/microsoft/vscode), [terminal](https://github.com/microsoft/terminal), [bookstack](https://github.com/BookStackApp/BookStack), [kanboard](https://github.com/kanboard/kanboard), [home-assistant](https://github.com/home-assistant/core), and [vaultwarden](https://github.com/dani-garcia/vaultwarden).
 
 <!--
 **jsnfwlr/jsnfwlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

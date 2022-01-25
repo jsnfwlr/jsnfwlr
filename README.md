@@ -2,7 +2,7 @@
 
 # Jason Fowler
 
-### I am a Senior Software Engineer with 20+ years experience in front-end & back-end development, server management, CI/CD, and DevOps.
+### I am a Engineering Team Lead with 20+ years experience in front-end & back-end development, server management, CI/CD, and DevOps.
 
 I am currently working with [vue](https://github.com/vuejs/vue), [go](https://github.com/golang/go), [tailwindcss](https://github.com/tailwindcss/tailwindcss), [php-src](https://github.com/php/php-src), [react-native](https://github.com/facebook/react-native), [docker-ce](https://github.com/docker/docker-ce), [kubernetes](https://github.com/kubernetes/kubernetes), [ansible](https://github.com/ansible/ansible), [traefik](https://github.com/containous/traefik), and [gitlab-ce](https://packages.gitlab.com/gitlab/gitlab-ce).
 I am also building things using [vuex](https://github.com/vuejs/vuex), [vuepress](https://github.com/vuejs/vuepress), [negroni](https://github.com/urfave/negroni), and [mux](https://github.com/gorilla/mux).

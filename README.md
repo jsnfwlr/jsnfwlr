@@ -1,6 +1,6 @@
-<!-- <img src="https://avatars2.githubusercontent.com/u/1097895?s=160&v=4" align="right" /> -->
-
 # Jason Fowler
+
+<img src="https://s.gravatar.com/avatar/9a0820f30bdb8f2019027357116cfd11?s=300&r=g" align="right" />
 
 ### I am a Senior Golang Engineer with 20+ years experience in front-end & back-end development, server management, CI/CD, and DevOps.
 
@@ -12,17 +12,4 @@ Previously, I have built web sites and web applications using [go](https://githu
 
 Tools I use frequently include [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh), [vscode](https://github.com/microsoft/vscode), [windows terminal](https://github.com/microsoft/terminal), [iterm](https://github.com/gnachman/iTerm2) [bookstack](https://github.com/BookStackApp/BookStack), [drone](https://github.com/harness/drone), [home-assistant](https://github.com/home-assistant/core), [traefik](https://github.com/containous/traefik), and [vaultwarden](https://github.com/dani-garcia/vaultwarden).
 
-<!--
-**jsnfwlr/jsnfwlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

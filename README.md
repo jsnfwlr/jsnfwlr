@@ -1,6 +1,6 @@
 # Jason Fowler
 
-<img src="https://s.gravatar.com/avatar/9a0820f30bdb8f2019027357116cfd11?s=300&r=g" align="right" />
+<!-- <img src="https://s.gravatar.com/avatar/9a0820f30bdb8f2019027357116cfd11?s=300&r=g" align="right" style="display: none" /> -->
 
 ### I am a Golang Engineer with 20+ years experience in backend & frontend development, server management, CI/CD, and DevOps.
 

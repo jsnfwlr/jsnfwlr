@@ -13,3 +13,4 @@ Previously, I have built web sites and web applications using [go](https://githu
 Tools I use frequently include [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh), [vscode](https://github.com/microsoft/vscode), [windows terminal](https://github.com/microsoft/terminal), [iterm](https://github.com/gnachman/iTerm2), [gitea](https://github.com/go-gitea/gitea), [home-assistant](https://github.com/home-assistant/core), [traefik](https://github.com/containous/traefik), and [vaultwarden](https://github.com/dani-garcia/vaultwarden).
 
 
+Follow me on <a rel="me" href="https://mastodon.social/@jsnfwlr">Mastodon</a>
